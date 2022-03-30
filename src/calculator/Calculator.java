@@ -33,8 +33,8 @@ public class Calculator {
     }
 
     //funzione per controllare la divisibilità di un numero rispetto ad un altro
-    public static boolean isDivisible(int parDivisibile, int parDiDivisibilità){
-        return parDivisibile % parDiDivisibilità == 0;
+    public static boolean isDivisible(int parDivisibile, int parDiDivisibilita){
+        return parDivisibile % parDiDivisibilita == 0;
     }
 
 
